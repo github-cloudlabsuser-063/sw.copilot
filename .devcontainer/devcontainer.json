@@ -1,0 +1,11 @@
+{
+  //name
+  "name": "code for skill",
+  "customization": {
+    "vscode": {
+      "extension":[
+        "Github.copilot"
+      ]
+    }
+  }
+}
